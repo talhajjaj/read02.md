@@ -9,4 +9,6 @@ and and give you a choice to put any theme that you like , you can publish it fo
 What are you waiting for !! sign in now to start your webpage project .
 
 [GitHub pages](https://pages.github.com/)
+
+![GitHub Logo](/images/logo.png)
  
